@@ -214,10 +214,14 @@ td button {
   border: none;
   outline: none;
   background: transparent;
+  width: 25px;
+  height: 25px;
 }
 
 td button i {
   font-size: 25px;
+  width: 25px;
+  height: 25px;
 }
 
 td button i:first-child {
